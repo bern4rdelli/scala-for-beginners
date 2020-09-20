@@ -42,7 +42,7 @@ object Functions extends App {
   sideEffectFunction(repeatString("Test", 5))
   sideEffectFunction(greeting("Test", 52))
   println(factorialCalc(53))
-  println(fibonacciCalc(33))
+  println(fibonacciCalc(8))
   println(isPrime(5))
 
 }
